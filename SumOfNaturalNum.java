@@ -4,12 +4,12 @@ public class SumOfNaturalNum {
 
 	public static void main(String[] args) {
 		
-		long N = 60000;
+		long n = 50000;
 //		int sum = 0;
 		
-		long sum = (N *(N+1))/2;
+		long sum = (n *(n+1))/2;
 		
-//		for(int i=1; i<=N; i++)
+//		for(int i=1; i<=n; i++)
 //		{
 //			sum = sum + i;
 //		}
